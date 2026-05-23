@@ -80,10 +80,8 @@ I'm a developer who loves writing clean code, building useful tools, and occasio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wzeion)
-[![Twitter](https://img.shields.io/badge/twitter-6D28D9?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wzeion)
-[![Portfolio](https://img.shields.io/badge/portfolio-5B21B6?style=flat-square&logo=googlechrome&logoColor=white)](https://wzeion.dev)
-[![Email](https://img.shields.io/badge/email-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:wzeion@email.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-7C3AED?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/wzeion](https://www.linkedin.com/in/ayannath-an2906/))
+[![Email](https://img.shields.io/badge/email-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:ayannath2926@email.com)
 
 </div>
 
