@@ -80,7 +80,7 @@ I'm a developer who loves writing clean code, building useful tools, and occasio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-7C3AED?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/wzeion](https://www.linkedin.com/in/ayannath-an2906/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayannath-an2906/)
 [![Email](https://img.shields.io/badge/email-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:ayannath2926@email.com)
 
 </div>
