@@ -42,9 +42,9 @@ I'm a developer who loves writing clean code, building useful tools, and occasio
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wzeion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9F7AEA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wzeion&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9F7AEA&icon_color=7C3AED&text_color=C4B5FD"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzeion&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d0d&title_color=9F7AEA&text_color=C4B5FD"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wzeion&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d0d&title_color=9F7AEA&text_color=C4B5FD"/>
 
 </div>
 
